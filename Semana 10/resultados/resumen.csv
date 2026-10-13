@@ -1,0 +1,2 @@
+n_total,filas_repetidas_eliminadas,n_entrenamiento,n_prueba,k,pesos,predictores,clases,exactitud_cv,desv_cv,exactitud_entrenamiento,exactitud_prueba,exactitud_balanceada,f1_macro,f1_ponderado,exactitud_base
+27603,724,22082,5521,31,distance,10,6,0.5191551991154072,0.007394216969688328,1.0,0.5122260460061583,0.5072133171866101,0.5045450755212503,0.5083399036792915,0.18583589929360622
