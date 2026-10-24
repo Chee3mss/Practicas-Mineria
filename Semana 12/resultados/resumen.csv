@@ -1,0 +1,2 @@
+n,filas_repetidas_eliminadas,variables,k,inercia,silueta,silueta_negativa,davies_bouldin,grupo_menor,grupo_mayor,pureza_genero,rand_ajustado_genero,generos,pureza_con_k_igual_generos,rand_ajustado_con_k_igual_generos
+27603,724,10,2,237764.64159658732,0.17773641162867743,0.085,2.209643313179415,8035,19568,0.24558924754555664,0.018432701365346294,6,0.33677498822591745,0.06491481898547036
