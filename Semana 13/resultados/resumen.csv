@@ -1,0 +1,2 @@
+objetivo,inicio,fin,puntos,ultimo_observado,modelo_elegido,mejor_con_todos_los_origenes,pendiente_global,pendiente_ultimos_10,mae_un_paso,mae_multipaso,mae_recientes,mape_recientes,salto_inicial,durbin_watson,autocorrelacion_lag1,pronostico_2020,pronostico_2024
+duracion_min,1980,2019,40,3.2947096231766615,cuadratico_todo,tendencia_todo,-0.0203350156956105,-0.10023296141440853,0.22230473094841238,0.3035387870710216,0.2386346658297838,6.2108396559816565,0.19030957238141744,0.3203443346737249,0.844115585201644,3.485019195558079,3.2043760316781857
