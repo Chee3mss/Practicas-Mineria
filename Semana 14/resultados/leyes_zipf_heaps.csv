@@ -1,0 +1,3 @@
+ley,formula,a,b,r2,interpretacion
+Zipf,log10(frec) = a + b*log10(rango),3.778108107771138,-0.942103531303474,0.9542696620618907,exponente 0.942
+Heaps,log10(vocab) = a + b*log10(tokens),0.569560839566991,0.7409739473137426,0.9967668248022132,"K=3.71, beta=0.741"
